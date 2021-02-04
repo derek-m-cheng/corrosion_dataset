@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>009.jpg</filename>
+	<path>C:\Users\derek\Documents\School\4th Year\W2021\ECE 189B\Corrosion_Dataset\train\images\009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3680</width>
+		<height>2456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>37</ymin>
+			<xmax>1333</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1770</xmin>
+			<ymin>150</ymin>
+			<xmax>2041</xmax>
+			<ymax>1326</ymax>
+		</bndbox>
+	</object>
+</annotation>
